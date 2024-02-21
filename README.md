@@ -1,3 +1,8 @@
+## Alamat"nya
+http://localhost/basics/web/index.php?r=payment
+http://localhost/basics/web/index.php?r=film
+http://localhost/basics/web/index.php?r=rental-summary (blm bs di buka)
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
